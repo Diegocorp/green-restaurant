@@ -1,2 +1,2 @@
-# page-for-green-restaurant
+# green-restaurant
 MERN
